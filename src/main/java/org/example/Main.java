@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("commit test 22222");
-        System.out.println("commit testtttt");
+        System.out.println("commit test");
     }
     HttpExchange exchange;
 }
